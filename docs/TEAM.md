@@ -10,10 +10,10 @@
 
 | STT | Họ và tên | MSSV | Email | Vai trò & Phân công công việc | Báo cáo cá nhân |
 |---:|---|---|---|---|---|
-| 1 | Nguyễn Đức Anh Quân | 2A202602405 | | Trưởng nhóm / Pipeline Integrator (`core/`, `phase1.py`, `corruption_flow.py`) | `report/2A202602405_NguyenDucAnhQuan.md` |
-| 2 | Nguyễn Đức Anh Quân | 2A202602405 | | Data Foundation & Recovery (`crossref.py`, `cleaning.py`, raw data) | `report/2A202602405_NguyenDucAnhQuan.md` |
-| 3 | Nguyễn Đức Anh Quân | 2A202602405 | | RAG & Vector Index (`retrieval/index.py`, `embeddings.py`, ChromaDB) | `report/2A202602405_NguyenDucAnhQuan.md` |
-| 4 | Nguyễn Đức Anh Quân | 2A202602405 | | Observability & Evaluation (`quality.py` GX 1.x, `testset.py`, reporting) | `report/2A202602405_NguyenDucAnhQuan.md` |
+| 1 | Nguyễn Đức Anh Quân | 2A202602405 | 26ai.quannda@vinuni.edu.vn | Trưởng nhóm / Pipeline Integrator (`core/`, `phase1.py`, `corruption_flow.py`) | `report/2A202602405_NguyenDucAnhQuan.md` |
+| 2 | Nguyễn Đức Anh Quân | 2A202602405 | 26ai.quannda@vinuni.edu.vn | Data Foundation & Recovery (`crossref.py`, `cleaning.py`, raw data) | `report/2A202602405_NguyenDucAnhQuan.md` |
+| 3 | Nguyễn Đức Anh Quân | 2A202602405 | 26ai.quannda@vinuni.edu.vn | RAG & Vector Index (`retrieval/index.py`, `embeddings.py`, ChromaDB) | `report/2A202602405_NguyenDucAnhQuan.md` |
+| 4 | Nguyễn Đức Anh Quân | 2A202602405 | 26ai.quannda@vinuni.edu.vn | Observability & Evaluation (`quality.py` GX 1.x, `testset.py`, reporting) | `report/2A202602405_NguyenDucAnhQuan.md` |
 
 *(Nếu nhóm có 3 hoặc 5-6 thành viên, xem bảng phân công chi tiết theo vai trò trong file `CHECKPOINTS.md`)*.
 
